@@ -58,7 +58,8 @@
     "client": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts eject",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "product-api": "node ./product-api/server.js"
   },
   "eslintConfig": {
     "extends": [

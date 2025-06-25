@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "T-Shirt",
+    "category": "Apparel",
+    "price": 19.99
+  },
+  {
+    "id": 2,
+    "name": "Coffee Mug",
+    "category": "Home",
+    "price": 9.99
+  },
+  {
+    "id": 3,
+    "name": "Baseball Cap",
+    "category": "Apparel",
+    "price": 14.99
+  }
+]
